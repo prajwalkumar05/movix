@@ -93,7 +93,7 @@ const DetailsBanner = ({ video, crew }) => {
                                             >
                                                 <PlayIcon />
                                                 <span className="text">
-                                                    Watch Trailer
+                                                    Watch Movie
                                                 </span>
                                             </div>
                                         </div>
